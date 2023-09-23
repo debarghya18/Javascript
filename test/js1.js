@@ -1,1 +1,2 @@
-console.log("Debarghya")
+let myDate= new Date()
+console.log(myDate.now)
